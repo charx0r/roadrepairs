@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "Hanuman temple,MCH park" }, "geometry": { "type": "Point", "coordinates": [ 78.436952456024116, 17.409225240202474 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "Mithila nagar colony" }, "geometry": { "type": "Point", "coordinates": [ 78.4367796, 17.4081332 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "Plot no.6" }, "geometry": { "type": "Point", "coordinates": [ 78.4359148, 17.4081945 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "Plot no.12" }, "geometry": { "type": "Point", "coordinates": [ 78.435104699999982, 17.4082489 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "new royal tradders\/8-2-686\/13" }, "geometry": { "type": "Point", "coordinates": [ 78.4353802, 17.4091017 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "H.no.8-2-684\/102\/70" }, "geometry": { "type": "Point", "coordinates": [ 78.4342393, 17.409095399999988 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "s.no.8-2-684\/102\/54 \/ Sony vcd library" }, "geometry": { "type": "Point", "coordinates": [ 78.433950023892535, 17.409075581331038 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "8-2-684\/102\/44\/1" }, "geometry": { "type": "Point", "coordinates": [ 78.433811852264625, 17.409082707946723 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "diamond mutton & chicken shop\/8-2-684\/100\/10\/A" }, "geometry": { "type": "Point", "coordinates": [ 78.433634469769274, 17.40908448960062 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "SHiva Hanuman temple" }, "geometry": { "type": "Point", "coordinates": [ 78.43336932961833, 17.409102306138486 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "8-2-684\/102\/50" }, "geometry": { "type": "Point", "coordinates": [ 78.43392014894593, 17.408676490407949 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "8-2-684\/102\/22" }, "geometry": { "type": "Point", "coordinates": [ 78.433675542396429, 17.408609352161349 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "10-5-391\/55\/45\/A" }, "geometry": { "type": "Point", "coordinates": [ 78.4334216, 17.407327599999988 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "10-5-391\/55\/1\/54" }, "geometry": { "type": "Point", "coordinates": [ 78.4336526, 17.4071326 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "10-5-391\/54\/42\/C" }, "geometry": { "type": "Point", "coordinates": [ 78.433942061108894, 17.4082111042175 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "10-5-391\/55\/1\/76\/4" }, "geometry": { "type": "Point", "coordinates": [ 78.433787578870493, 17.408239983712782 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "8-2-684\/10\/51\/A" }, "geometry": { "type": "Point", "coordinates": [ 78.4340008, 17.4084274 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "New Oxford School" }, "geometry": { "type": "Point", "coordinates": [ 78.4345747, 17.408274 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "Shaheen School" }, "geometry": { "type": "Point", "coordinates": [ 78.4341832, 17.4069892 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "Chilla point circle" }, "geometry": { "type": "Point", "coordinates": [ 78.4340941, 17.4067967 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "8-2-693\/2\/31" }, "geometry": { "type": "Point", "coordinates": [ 78.436750099999983, 17.407653399999983 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "8-2-693\/2\/28" }, "geometry": { "type": "Point", "coordinates": [ 78.436349430202796, 17.407662462076917 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "Plot no.25(h.no.318)" }, "geometry": { "type": "Point", "coordinates": [ 78.435923299999985, 17.407672099999989 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "Plot no.59" }, "geometry": { "type": "Point", "coordinates": [ 78.435623020901176, 17.407678759286938 ] } },
+{ "type": "Feature", "properties": { "TYPE_1": null, "TYPE_2": null, "Landmark": "Naivedya ,36\/B, Mithila nagar" }, "geometry": { "type": "Point", "coordinates": [ 78.4366276, 17.406695399999986 ] } }
+]
+}
